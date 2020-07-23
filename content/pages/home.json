@@ -17,22 +17,10 @@
         "arrow": false
       },
       {
-        "label": "NUTRITION GUIDE",
+        "label": "Telangana Covid Helpline Numbers",
         "link": "/contact",
         "arrow": false,
         "primary": false
-      },
-      {
-        "label": "HOME-ISOLATION Details",
-        "link": "/blog",
-        "primary": true,
-        "arrow": false
-      },
-      {
-        "label": "Telangana Covid Helpline Numbers",
-        "link": "/blog",
-        "primary": true,
-        "arrow": false
       }
     ],
     "image": "../images/cafe-2.jpg",
