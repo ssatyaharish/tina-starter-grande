@@ -7,20 +7,32 @@
     }
   ],
   "hero": {
-    "headline": "Welcome to Covid19 helpline for Telangana people.",
-    "textline": "Please find quick links for the same.",
+    "headline": "Covid19 helpline for Telangana people.",
+    "textline": "Here you can all about dealing with CaronaVirus Disease",
     "ctas": [
       {
-        "label": "Read The Blog",
+        "label": "Symptoms of Coronavirus",
         "link": "/blog",
         "primary": true,
-        "arrow": true
+        "arrow": false
       },
       {
-        "label": "Contact Us",
+        "label": "NUTRITION GUIDE",
         "link": "/contact",
         "arrow": false,
         "primary": false
+      },
+      {
+        "label": "HOME-ISOLATION Details",
+        "link": "/blog",
+        "primary": true,
+        "arrow": false
+      },
+      {
+        "label": "Telangana Covid Helpline Numbers",
+        "link": "/blog",
+        "primary": true,
+        "arrow": false
       }
     ],
     "image": "../images/cafe-2.jpg",
